@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    height: auto;
+    width: auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: brown;
+}
+
+#one{
+    height: 530px;
+    width: 85px;
+    padding: 25px;
+    margin: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+    text-align: center;
+}
+div{
+    height: 530px;
+    width: 950px;
+    padding: 25px;
+    margin: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+    display: inline-block;
+    text-align: center;
+}
+#two{
+    height: 530px;
+    width: 85px;
+    padding: 25px;
+    margin: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:black;
+    text-align: center;
+}
